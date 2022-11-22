@@ -59255,7 +59255,7 @@ A.yW.prototype={
 G(a){var s=null,r=t.fQ
 return new A.Fa(A.qU(new A.cM(B.A7,A.nj(A.b([new A.zB(A.nH("assets/avatar.jpg",s,s).c,100,s),A.dy(s,20,s),A.d4("Arshita Maini",s,s,s,4),A.dy(s,20,s),A.d4("Computer Science Engineer | Volunteer | Mobile App Developer | Problem Solver",A.aA(a).RG.Q,B.e4,s,2),A.dy(s,30,s),A.qU(A.Tv(!1,!0,A.d4("Checkout my Resume",A.fe(s,s,B.EN,s,s,s,s,s,"OpenSans",s,s,12,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.e4,s,2),s,!0,s,s,s,s,s,s,s,s,s,new A.Nz(),s,s,s,s),s,s),A.dy(s,30,s),A.ki(A.b([A.a9S(A.dy(A.nH("assets/github.png",s,s),20,20),A.d4("Github",s,s,s,s),new A.NA()),A.a9S(A.dy(A.nH("assets/instagram.png",s,s),20,20),A.d4("Instagram",s,s,s,s),new A.NB()),A.a9S(A.dy(A.nH("assets/linkedin.png",s,s),20,20),A.d4("Linkedin",s,s,s,s),new A.NC())],r),B.b6,B.Ej,B.aA)],r),B.b6,B.aa,B.aA),s),s,s),s)}}
 A.Nz.prototype={
-$0(){return A.N6("https://arshitamaini.github.io/docs/cv.pdf")},
+$0(){return A.N6("https://arshitamaini.github.io/docs/resume.pdf")},
 $S:124}
 A.NA.prototype={
 $0(){return B.e9.qb(window,"https://github.com/arshitamaini/","arshitmaini")},
